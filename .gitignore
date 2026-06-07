@@ -33,3 +33,7 @@ ehthumbs.db
 
 # Folder View Settings
 Desktop.ini
+
+# Media (ignored due to GitHub size limits)
+assets/
+*.mp4
