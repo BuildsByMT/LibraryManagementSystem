@@ -17,6 +17,15 @@ A robust web application designed to manage library operations, student membersh
 
 ---
 
+## 📺 Demo Video
+
+Here is a video demonstration of the Library Management System in action:
+
+<video src="assets/demo.mp4" width="100%" controls></video>
+
+---
+
+
 ## 🛠️ Technology Stack
 
 - **Frontend**: HTML5, CSS3, BootStrap, FontAwesome Icons, ASP.NET Web Forms controls.
